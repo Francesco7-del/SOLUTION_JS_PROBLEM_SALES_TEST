@@ -73,9 +73,8 @@ Total: 98.38
   Scaricare il file .zip contenente il codice per risolvere il problema.
   Scaricare e installare Node.js(se non presente sul PC):link-->
   Aprire l'IDE : 
-  
-  aprendo il file index.js si possono vedere i campi di input(attualmente presenti gli input  forniti della traccia)si possono modificare per eseguire più   test.
-  La cartella src contiene gli script con  funzioni come: definire il tipo prodotto,definire la tassa da applicare.
-  La cartella  test contiene alcuni esempi di test e relative risposte. 
+    aprendo il file index.js si possono vedere i campi di input(attualmente presenti gli input  forniti della traccia)si possono modificare per eseguire     più   test.
+    La cartella src contiene gli script con  funzioni come: definire il tipo prodotto,definire la tassa da applicare.
+    La cartella  test contiene alcuni esempi di test e relative risposte. 
 
 
