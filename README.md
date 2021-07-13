@@ -63,8 +63,8 @@ Total: 98.38
   Dato un input(nel file index.js) il codice produrrà un opportuno output applicando la giusta tassa , controllando 
   il prodotto in ingresso.
 
-#REQUISITI
-  Node.js
+#REQUISITI:
+  Node.js------
   avere a disposizione un IDE(esempio Atom)  .
   Suggerimento : se si utilizza Atom installare il pacchetto platformio-ide-terminal
   
