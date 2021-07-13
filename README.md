@@ -54,9 +54,12 @@ Sales Taxes: 7.90
 Total: 98.38
 
 
-############################################################
-#DESCRIZIONE
-  il codice presenta la soluzione del problema dato. Per l'implementazione è stato utilizzato interamente Javascrpt. 
+ ############################################################
+  
+  
+  
+  #DESCRIZIONE 
+  il codice presenta la soluzione del problema dato. Per l'implementazione è stato utilizzato interamente Javascrpt.   
   Dato un input(nel file index.js) il codice produrrà un opportuno output applicando la giusta tassa , controllando 
   il prodotto in ingresso.
 
